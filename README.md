@@ -40,4 +40,4 @@
 <p>Go to the <a href="https://github.com/younesnoorzahi/TensorFlow-in-Python/blob/main/Example-Neural-Network.py">Example-Neural-Network.py</a> file and take a look at the code.</p>
 
 <p>TensorFlow continues to evolve with frequent updates, making it one of the most powerful tools for machine learning and deep learning applications.</p>
-<span>Source for more information<a href="https://www.tensorflow.org/">tensorflow.org</a></span>
+<span>Source for more information <a href="https://www.tensorflow.org/">tensorflow.org</a></span>
