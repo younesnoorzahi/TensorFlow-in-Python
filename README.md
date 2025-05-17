@@ -12,7 +12,7 @@
 <br>
 <span>3. Eager Execution: Enabled by default in TF 2.x, allows immediate operation evaluation like standard Python</span>
 <h2>Key Components</h2>
-<p>Go to the <a href="">Key-Components.py</a> file and take a look at the code.</p>
+<p>Go to the <a href="https://github.com/younesnoorzahi/TensorFlow-in-Python/blob/main/Key-Components.py">Key-Components.py</a> file and take a look at the code.</p>
 <h2>Common Use Cases</h2>
 <span>1. Deep Learning: Building and training neural networks</span>
 <br>
@@ -37,6 +37,6 @@
 <br>
 <span>5. Deployment</span>
 <h2>Example Neural Network</h2>
-<p>Go to the <a href="">Example-Neural-Network.py</a> file and take a look at the code.</p>
+<p>Go to the <a href="https://github.com/younesnoorzahi/TensorFlow-in-Python/blob/main/Example-Neural-Network.py">Example-Neural-Network.py</a> file and take a look at the code.</p>
 
 <p>TensorFlow continues to evolve with frequent updates, making it one of the most powerful tools for machine learning and deep learning applications.</p>
